@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 # --- CONFIGURACIÓN ---
-API_KEY = '4bb2adbbf96684bbc22e6ea6245d1198abbb1a6107046161ab136ed2f1dd143ca4f34decdebb906a'
+API_KEY = 'aqui iria tu key'
 MONGO_URI = "mongodb://localhost:27017/"
 
 # --- FUNCIONES DE BASE DE DATOS ---
