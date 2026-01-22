@@ -1,0 +1,13 @@
+# Bases de datos locales
+*.db
+*.sqlite3
+
+# Archivos de reporte locales (se generan al correr)
+*.csv
+log_historico.txt
+sospechosos.txt
+
+# Entornos virtuales y Python
+__pycache__/
+venv/
+.env
